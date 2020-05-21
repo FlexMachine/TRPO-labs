@@ -1,0 +1,6 @@
+C:\Users\denis\source\repos\bubnOFF.Task3\ProductionCode\bin\Debug\ProductionCode.exe.config
+C:\Users\denis\source\repos\bubnOFF.Task3\ProductionCode\bin\Debug\ProductionCode.exe
+C:\Users\denis\source\repos\bubnOFF.Task3\ProductionCode\bin\Debug\ProductionCode.pdb
+C:\Users\denis\source\repos\bubnOFF.Task3\ProductionCode\obj\Debug\ProductionCode.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\bubnOFF.Task3\ProductionCode\obj\Debug\ProductionCode.exe
+C:\Users\denis\source\repos\bubnOFF.Task3\ProductionCode\obj\Debug\ProductionCode.pdb

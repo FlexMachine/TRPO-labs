@@ -1,0 +1,6 @@
+C:\Users\denis\Desktop\StringFormatter\StringFromatter\bin\Debug\StringFromatter.exe.config
+C:\Users\denis\Desktop\StringFormatter\StringFromatter\bin\Debug\StringFromatter.exe
+C:\Users\denis\Desktop\StringFormatter\StringFromatter\bin\Debug\StringFromatter.pdb
+C:\Users\denis\Desktop\StringFormatter\StringFromatter\obj\Debug\StringFromatter.csprojAssemblyReference.cache
+C:\Users\denis\Desktop\StringFormatter\StringFromatter\obj\Debug\StringFromatter.exe
+C:\Users\denis\Desktop\StringFormatter\StringFromatter\obj\Debug\StringFromatter.pdb
